@@ -8,6 +8,20 @@ A web-based quiz application with gamification features, fetching quiz data from
 - Displays a summary of results upon quiz completion.
 - Includes error handling and loading state for better user experience.
 
+Screenshots
+
+Quiz Question View:
+
+![image](https://github.com/user-attachments/assets/d994266a-e9c5-4aa8-bd11-17b731f02445)
+
+
+
+
+Quiz Completion View:
+
+![image](https://github.com/user-attachments/assets/e65d282a-de59-4f5d-a641-a1e8b3e64b47)
+
+
 ## Technologies Used
 - React.js
 - JavaScript (ES6+)
